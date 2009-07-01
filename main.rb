@@ -12,7 +12,7 @@ configure do
 		:title => 'a scanty blog',
 		:author => 'John Doe',
 		:url_base => 'http://localhost:4567/',
-		:admin_password => 'changeme',
+		:admin_password => 'super_secret',
 		:admin_cookie_key => 'scanty_admin',
 		:admin_cookie_value => '51d6d976913ace58',
 		:disqus_shortname => nil
